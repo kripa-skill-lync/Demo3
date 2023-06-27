@@ -1,0 +1,6 @@
+temp =50 C
+speed = 120kmh
+pressure = 5bar
+volt = 3.3v
+I =5a
+varient =123BA
