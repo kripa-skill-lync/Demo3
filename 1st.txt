@@ -1,6 +1,6 @@
 temp =65 C
 speed = 150 KMPH
 pressure = 5bar
-volt = 3.3v
+volt = 5 V
 I =5a
 varient =123BA
