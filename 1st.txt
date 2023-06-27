@@ -1,5 +1,5 @@
 temp =65 C
-speed = 120kmh
+speed = 150 KMPH
 pressure = 5bar
 volt = 3.3v
 I =5a
