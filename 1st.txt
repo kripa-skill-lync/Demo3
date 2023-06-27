@@ -1,4 +1,4 @@
-temp =50 C
+temp =65 C
 speed = 120kmh
 pressure = 5bar
 volt = 3.3v
